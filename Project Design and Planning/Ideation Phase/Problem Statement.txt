@@ -1,0 +1,4 @@
+Sam is a chemist who works in a Biolin laboratory (Chemical Research Center). 
+Their Job is to create valuable products using chemical compounds. But, there is an issue associated with the job:
+whenever he mixes the chemical compounds, he fears evolving toxic gas because if the quantity of the chemical compounds mismatches the appropriate level, 
+It will produce harmful gases that could be harmful to the whole laboratory. Hence he needs a Gas Leakage Monitoring and Alerting System
